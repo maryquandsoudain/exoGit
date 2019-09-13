@@ -1,2 +1,2 @@
 Voici un premier fichier créé.
-Je modifie le premier fichier pour y ajouter du texte.
+Je modifie le premier fichier pour y ajouter quoi ? Du texte.
